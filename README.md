@@ -1,10 +1,13 @@
 # Mini Autonomous Car
- In these project, an arduino rule based autonomous car was created. The vehicle has two capabilities.
+ In these project, an arduino rule based autonomous car was created. The vehicle has three capabilities.
 - watch line 
 ![Alt Text](https://github.com/UlucFVardar/RuleBased-3D-printed-Mini-Car/blob/master/images/g1.gif?raw=true)
 
 - escape from obstacles
 ![Alt Text](https://github.com/UlucFVardar/RuleBased-3D-printed-Mini-Car/blob/master/images/g2.gif?raw=true)
+
+- watch line (when there is an obstacles on the road stop)
+![Alt Text](https://github.com/UlucFVardar/RuleBased-3D-printed-Mini-Car/blob/master/images/g3.gif?raw=true)
 
 
 
